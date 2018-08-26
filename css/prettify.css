@@ -1,0 +1,45 @@
+.vj-codebox{ height:300px !important;}
+/* Pretty printing styles. Used with prettify.js. */
+.linenums{ color:#eee;}
+.str { color: #3a73a9; }
+.kwd { color: #f18973; }
+.com { color: #65737E; }
+.typ { color: #80ced6; }
+.lit { color: #5b9aa0; }
+.pun { color: #CDD3DE;/*greyishwhite-punctuation*/}
+.pln { color: #C594C5;/*purple*/}
+.tag { color: #E75D65;/*reddish-tags*/}
+.atn { color: #93C08F;/*greenish-attribute Name*/}
+.atv { color: #FAC863;/*yellowish orange-attribute value*/ }
+.dec { color: #B89D9E;/*brownish*/ }
+pre.prettyprint { padding: 0px; border: 1px solid #000 }
+
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums { margin-top: 0; margin-bottom: 0;background: #1B2B34;} /* IE indents via margin-left */
+li.L0,
+li.L1,
+li.L2,
+li.L3,
+li.L5,
+li.L6,
+li.L7,
+li.L8 { list-style-type: none;background: #1B2B34; }
+/* Alternate shading for lines */
+li.L1,
+li.L3,
+li.L5,
+li.L7,
+li.L9 { background: #1B2B34; }
+
+@media print {
+  .str { color: #060; }
+  .kwd { color: #006; font-weight: bold; }
+  .com { color: #600; font-style: italic; }
+  .typ { color: #404; font-weight: bold; }
+  .lit { color: #044; }
+  .pun { color: #440; }
+  .pln { color: #000; }
+  .tag { color: #006; font-weight: bold; }
+  .atn { color: #404; }
+  .atv { color: #060; }
+}
