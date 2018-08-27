@@ -29,7 +29,7 @@ var quotes = [
     'People often claim ti hunger for truth, but seldom like its taste when its served.',
     'Always mean everything you say.',
     'Never forget what you are `coz the rest of the world won`t. Wear it like an armour and it can never be used to hurt you.',
-    'A bruise is a lesson and ever ylesson makes us better.',
+    'A bruise is a lesson and every lesson makes us better.',
     'The man who fears losing has already lost, `coz fear cuts deeper than the swords.',
     'A lion does not concern himself with the opinion of the sheep.',
     'Not  Today!!!',
