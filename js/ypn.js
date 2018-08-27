@@ -26,7 +26,7 @@ var quotes = [
     'Stop blaming others. Take responsibility for your life.',
     'Don’t wait. Start now!',
     'If you don’t go after what you want, you will never have it.',
-    'People often claim ti hunger for truth, but seldom like its taste when its served.',
+    'People often claim they hunger for truth, but seldom like its taste when its served.',
     'Always mean everything you say.',
     'Never forget what you are `coz the rest of the world won`t. Wear it like an armour and it can never be used to hurt you.',
     'A bruise is a lesson and every lesson makes us better.',
