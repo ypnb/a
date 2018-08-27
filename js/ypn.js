@@ -36,6 +36,15 @@ var quotes = [
     'There is no shame in fear, what matters is how we face it.',
     'The past s the past, the future is all that`s worth discussing.',
     'A reader lives a thousand lives before he dies, the man who doesn`t lives only one.',
+    'If you are good at something, never do it for free.',
+    'Never waste your time with explanations, people only hear what they want to hear.',
+    'Be Forgiving, Be understanding; but never be a fool.',
+    'Confidence is silent; Insecurities are loud.',
+    'A fish with closed mouth never get caught; The less you expect, the happier you will be.',
+    'The best way to trick a fool, is to let the fool think he has fooled you.',
+    'Never assume things! Loud isn`t strong; Quite isn`t weak.',
+    'Sometimes you have to play the role of a fool to fool the fool who thinks he`s fooling you.',
+    'If they stand behind you, Protect them; If they stand beside you, Respect them; If they stand against you, Defeat them!!',
     'Valar Morghulis; Valar Dohaeris'
     
 ]
